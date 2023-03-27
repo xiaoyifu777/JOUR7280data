@@ -1,6 +1,6 @@
 ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Directors,Genres,Country,Language,Runtime
 1,Inception,2010,13+,8.8,87%,1,0,0,0,Christopher Nolan,"Action,Adventure,Sci-Fi,Thriller","United States,United Kingdom","English,Japanese,French",148
-2,The Matrix,1999,18+,8.7,87%,1,0,0,0,"Lana Wachowski,Lilly Wachowski","Action,Sci-Fi",United States,English,136
+2,The Matrix,1999,18+,8.7,87%,1,0,0,0,"Lana Wachowski,Lilly Wachowski","Action,Sci-Fi",United States,English,136 
 3,Avengers: Infinity War,2018,13+,8.5,84%,1,0,0,0,"Anthony Russo,Joe Russo","Action,Adventure,Sci-Fi",United States,English,149
 4,Back to the Future,1985,7+,8.5,96%,1,0,0,0,Robert Zemeckis,"Adventure,Comedy,Sci-Fi",United States,English,116
 5,"The Good, the Bad and the Ugly",1966,18+,8.8,97%,1,0,1,0,Sergio Leone,Western,"Italy,Spain,West Germany",Italian,161
@@ -542,7 +542,7 @@ ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Director
 541,Mortal Kombat,1995,13+,5.8,47%,1,0,0,0,Paul W.S. Anderson,"Action,Adventure,Fantasy,Sci-Fi,Thriller",United States,English,101
 542,Behind the Curve,2018,16+,6.5,89%,1,0,0,0,Daniel J. Clark,Documentary,United States,English,96
 543,Soni,2019,18+,7.2,85%,1,0,0,0,Nicolas Cage,"Crime,Drama",United States,English,110
-544,Carriers,2009,13+,6,68%,1,0,0,0,"David Pastor,?€lex Pastor","Adventure,Drama,Thriller",United States,English,84
+544,Carriers,2009,13+,6,68%,1,0,0,0,"David Pastor,?Â€lex Pastor","Adventure,Drama,Thriller",United States,English,84
 545,Tig,2015,,7.4,77%,1,0,0,0,"Kristina Goolsby,Ashley York",Documentary,United States,English,95
 546,Patton Oswalt: Annihilation,2017,,7.2,100%,1,0,0,0,Bobcat Goldthwait,"Documentary,Comedy",United States,English,66
 547,Trixie Mattel: Moving Parts,2019,,7.3,88%,1,0,0,0,Nicholas Zeig-Owens,Documentary,United States,English,91
@@ -676,7 +676,7 @@ ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Director
 675,Into the Forest,2016,18+,5.8,76%,1,0,0,0,Patricia Rozema,"Drama,Horror,Sci-Fi,Thriller",Canada,English,101
 676,God Knows Where I Am,2016,,7.3,84%,1,0,0,0,"Jedd Wider,Todd Wider","Documentary,Biography,Drama,History,Mystery",United States,English,97
 677,Stuart Little 2,2002,all,5.4,81%,1,0,0,0,Rob Minkoff,"Animation,Adventure,Comedy,Family,Fantasy",United States,English,77
-678,The Rolling Stones: Ol?? Ol?? Ol??! ?€? A Trip Across Latin America,2016,16+,7.5,100%,1,0,0,0,Paul Dugdale,"Documentary,Music",United Kingdom,"English,Spanish,Portuguese",105
+678,The Rolling Stones: Ol?? Ol?? Ol??! ?Â€? A Trip Across Latin America,2016,16+,7.5,100%,1,0,0,0,Paul Dugdale,"Documentary,Music",United Kingdom,"English,Spanish,Portuguese",105
 679,Sand Storm,2016,,6.8,92%,1,0,0,0,Elite Zexer,Drama,"Israel,Germany,France",Arabic,87
 680,From Paris with Love,2010,18+,6.5,38%,1,0,1,0,Pierre Morel,"Action,Crime,Thriller",France,"English,French,Mandarin,German",92
 681,Luck by Chance,2009,,7,80%,1,0,0,0,Zoya Akhtar,Drama,India,"Hindi,English",156
@@ -773,7 +773,7 @@ ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Director
 772,Invader ZIM: Enter the Florpus,2019,7+,7.5,100%,1,0,0,0,"Hae Young Jung,Young Kyun Park,Jhonen Vasquez","Animation,Action,Adventure,Comedy,Family,Sci-Fi","South Korea,United States","English,Korean",71
 773,Dovlatov,2018,,6.4,78%,1,0,0,0,Aleksey German Jr.,"Biography,Drama","Russia,Poland,Serbia","Russian,Spanish,Finnish",126
 774,Jupiter Ascending,2015,13+,5.3,27%,1,0,0,0,"Lana Wachowski,Lilly Wachowski","Action,Adventure,Sci-Fi","United States,Australia","English,Russian",127
-775,The Occupant,2020,18+,6.3,50%,1,0,0,0,"David Pastor,?€lex Pastor","Drama,Thriller",Spain,Spanish,103
+775,The Occupant,2020,18+,6.3,50%,1,0,0,0,"David Pastor,?Â€lex Pastor","Drama,Thriller",Spain,Spanish,103
 776,Shutter,2004,18+,7.1,,1,0,0,0,"Banjong Pisanthanakun,Parkpoom Wongpoom","Horror,Mystery,Thriller",Thailand,Thai,97
 777,E-Team,2014,,7.1,82%,1,0,0,0,"Katy Chevigny,Ross Kauffman",Documentary,United States,"English,German,Arabic,Russian,French",88
 778,Class Rank,2017,,6.4,86%,1,0,0,0,Eric Stoltz,"Comedy,Family,Romance",United States,English,108
@@ -2264,7 +2264,7 @@ ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Director
 2263,Judd Apatow: The Return,2017,,6.2,,1,0,0,0,Marcus Raboy,Comedy,United States,English,69
 2264,#cats_the_mewvie,2020,16+,5.2,,1,0,0,0,Michael Margolis,Documentary,Canada,English,90
 2265,Hantu Kak Limah,2018,,6.4,,1,0,0,0,Mamat Khalid,"Comedy,Horror",Malaysia,Malay,111
-2266,Jo Koy: Comin?€? In Hot,2019,,7.4,,1,0,0,0,Shannon Hartman,Comedy,United States,English,60
+2266,Jo Koy: Comin?Â€? In Hot,2019,,7.4,,1,0,0,0,Shannon Hartman,Comedy,United States,English,60
 2267,The Holiday Calendar,2018,,5.7,,1,0,0,0,Bradley Walsh,"Drama,Fantasy,Romance",United States,English,95
 2268,The Lost Brother,2017,,6.5,,1,0,0,0,Israel Adri??n Caetano,"Crime,Drama,Thriller","Argentina,Uruguay,Spain,France",Spanish,112
 2269,ReMastered: Tricky Dick & The Man in Black,2018,,7.2,,1,0,0,0,"Sara Dosa,Barbara Kopple","Documentary,Biography",United States,English,59
@@ -2274,7 +2274,7 @@ ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Director
 2273,Street Flow,2019,18+,6.3,,1,0,0,0,"Kery James,Le??la Sy",Crime,France,French,96
 2274,F.R.E.D.I.,2018,,5,,1,0,0,0,Sean Olson,"Adventure,Family,Sci-Fi",United States,,89
 2275,Bon Bini Holland,2015,,5.6,,1,0,0,0,Jelle de Jonge,Comedy,Netherlands,Dutch,85
-2276,City of God ?€? 10 Years Later,2013,,6.4,,1,0,0,0,"Cavi Borges,Luciano Vidigal",Documentary,Brazil,Portuguese,70
+2276,City of God ?Â€? 10 Years Later,2013,,6.4,,1,0,0,0,"Cavi Borges,Luciano Vidigal",Documentary,Brazil,Portuguese,70
 2277,Shanghai Fortress,2019,,4.3,,1,0,0,0,Hua-Tao Teng,"Sci-Fi,War",China,"Mandarin,English",107
 2278,Jo Pil-ho: The Dawning Rage,2019,,6.2,,1,0,0,0,Jeong-beom Lee,"Action,Crime,Drama,Thriller",South Korea,Korean,127
 2279,La Pena M??xima,2001,,6.8,,1,0,0,0,Rodrigo Triana,Comedy,"Colombia,Mexico",Spanish,89
@@ -3101,7 +3101,7 @@ ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Director
 3100,Katti Batti,2015,,4.9,,1,0,0,0,Nikkhil Advani,"Comedy,Drama,Romance",India,Hindi,135
 3101,"Hoshino Gen Dome Tour ""POP VIRUS"" at Tokyo Dome",2019,,,,1,0,0,0,,,,,
 3102,Haunting on Fraternity Row,2018,18+,3.8,,1,0,0,0,Brant Sersen,Horror,United States,English,99
-3103,Pac?€?s Scary Halloween,2016,7+,5.4,,1,0,0,0,,"Animation,Action,Comedy,Drama,Family,Fantasy,Sci-Fi",United States,English,44
+3103,Pac?Â€?s Scary Halloween,2016,7+,5.4,,1,0,0,0,,"Animation,Action,Comedy,Drama,Family,Fantasy,Sci-Fi",United States,English,44
 3104,Saadey CM Saab,2016,7+,5.6,,1,0,0,0,Vipin Parashar,"Comedy,Family",India,Punjabi,143
 3105,"Pop, Lock 'n Roll",2017,,5.8,,1,0,1,0,Ziggy Hofmeyr,Music,South Africa,English,87
 3106,My Ex-Ex,2015,,4.4,,1,0,0,0,Nathaniel Warsh,"Comedy,Romance",Canada,English,89
@@ -3509,8 +3509,8 @@ ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Director
 3508,Oh My Ghost 4,2015,,,,1,0,0,0,,"Comedy,Drama,Fantasy,Romance",South Korea,Korean,60
 3509,Sohni Mahiwal,1984,,,,1,0,0,0,"Kanwal Biala,Latif Faiziyev,Umesh Mehra","Action,Drama,Romance","India,Soviet Union","Punjabi,Hindi",142
 3510,Twice,2010,,,,1,0,0,0,Jean-Fran??ois Richet,Thriller,France,English,
-3511,"Karol Modzelewski, ??ukasz ?€?Lotek"" Lodkowski No Offense",2016,,,,1,0,0,0,,,,,
-3512,?€?Maj Rati ?€??€?Keteki,2017,,,,1,0,0,0,Santwana Bardoloi,Drama,India,Assamese,
+3511,"Karol Modzelewski, ??ukasz ?Â€?Lotek"" Lodkowski No Offense",2016,,,,1,0,0,0,,,,,
+3512,?Â€?Maj Rati ?Â€??Â€?Keteki,2017,,,,1,0,0,0,Santwana Bardoloi,Drama,India,Assamese,
 3513,Paradise Lost,2017,,,,1,0,1,0,,"Drama,Mystery",,,
 3514,Monty Python Conquers America,2000,,,,1,0,0,0,,,,,
 3515,The Consul's Son,2011,,,,1,0,0,0,Amr Arafa,"Comedy,Thriller",Egypt,Arabic,119
@@ -3790,7 +3790,7 @@ ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Director
 3789,Beach Rats,2017,18+,6.4,85%,0,1,0,0,Eliza Hittman,Drama,United States,English,98
 3790,Manderlay,2005,,7.3,50%,0,1,0,0,Lars von Trier,Drama,"Denmark,Sweden,Netherlands,France,Germany,United Kingdom,Italy,United States",English,139
 3791,High Strung,2016,7+,6.4,75%,0,1,1,0,Michael Damian,"Drama,Music,Romance","Romania,United States",English,96
-3792,The Last Days,2013,,6.1,89%,0,1,1,0,"David Pastor,?€lex Pastor","Horror,Sci-Fi,Thriller","Spain,France","Spanish,Catalan",100
+3792,The Last Days,2013,,6.1,89%,0,1,1,0,"David Pastor,?Â€lex Pastor","Horror,Sci-Fi,Thriller","Spain,France","Spanish,Catalan",100
 3793,Free Willy,1993,7+,6,58%,0,1,0,0,Simon Wincer,"Adventure,Drama,Family","United States,France,Mexico",English,112
 3794,First Girl I Loved,2016,,6.1,89%,0,1,0,0,Kerem Sanga,"Drama,Romance",United States,"English,Spanish",90
 3795,Man on a Ledge,2012,13+,6.6,32%,0,1,1,0,Asger Leth,"Action,Adventure,Crime,Thriller",United States,"English,Spanish",102
@@ -4666,7 +4666,7 @@ ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Director
 4665,Suspiria,2018,18+,6.8,65%,0,0,1,0,Luca Guadagnino,"Fantasy,Horror,Mystery,Thriller","Italy,United States","English,German,French,Russian",152
 4666,Hindi Medium,2017,,7.8,78%,0,0,1,0,Saket Chaudhary,"Comedy,Drama",India,Hindi,132
 4667,King of New York,1990,18+,7,73%,0,0,1,0,Abel Ferrara,"Crime,Thriller","Italy,United States",English,103
-4668,Three?€? Extremes,2004,18+,7,84%,0,0,1,0,"Fruit Chan,Takashi Miike,Chan-wook Park",Horror,"Hong Kong,Japan,South Korea","Cantonese,Japanese,Korean,Mandarin",118
+4668,Three?Â€? Extremes,2004,18+,7,84%,0,0,1,0,"Fruit Chan,Takashi Miike,Chan-wook Park",Horror,"Hong Kong,Japan,South Korea","Cantonese,Japanese,Korean,Mandarin",118
 4669,The Invisible War,2012,,7.6,99%,0,0,1,0,Kirby Dick,"Documentary,Crime","United States,France",English,93
 4670,We Were Here,2011,,7.9,100%,0,0,1,0,"David Weissman,Bill Weber","Documentary,Biography,History,News",United States,English,90
 4671,Carnival of Souls,1962,7+,7.1,86%,0,0,1,0,Herk Harvey,"Horror,Mystery",United States,English,78
@@ -4687,7 +4687,7 @@ ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Director
 4686,Friday the 13th,1980,18+,6.5,63%,0,0,1,0,Sean S. Cunningham,"Horror,Mystery,Thriller",United States,English,95
 4687,Sabotage,1937,,7.1,100%,0,0,1,0,David Ayer,"Action,Drama,Thriller",United States,"English,Spanish",109
 4688,Pyaasa,1957,,8.5,100%,0,0,1,0,Guru Dutt,"Drama,Musical,Romance",India,Hindi,146
-4689,He Loves Me?€? He Loves Me Not,2002,13+,7.2,71%,0,0,1,0,Laetitia Colombani,"Romance,Thriller",France,French,92
+4689,He Loves Me?Â€? He Loves Me Not,2002,13+,7.2,71%,0,0,1,0,Laetitia Colombani,"Romance,Thriller",France,French,92
 4690,Birdy,1984,18+,7.3,85%,0,0,1,0,Alan Parker,"Drama,War",United States,English,120
 4691,The Secret of Roan Inish,1995,7+,7.5,95%,0,0,1,0,John Sayles,"Drama,Family,Fantasy","United States,Ireland","English,Irish",103
 4692,Meet John Doe,1941,,7.7,91%,0,0,1,0,Frank Capra,"Comedy,Drama,Romance",United States,English,122
@@ -4739,7 +4739,7 @@ ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Director
 4738,Behind the Mask: The Rise of Leslie Vernon,2006,18+,6.7,76%,0,0,1,0,Scott Glosserman,"Comedy,Horror,Thriller",United States,English,92
 4739,These Final Hours,2014,18+,6.7,84%,0,0,1,0,Zak Hilditch,"Drama,Sci-Fi,Thriller",Australia,English,87
 4740,The Man with the Golden Arm,1955,,7.4,86%,0,0,1,0,Otto Preminger,"Crime,Drama,Romance",United States,English,119
-4741,Lost Soul: The Doomed Journey of Richard Stanley's ?€?Island of Dr. Moreau?€?,2014,,7.5,100%,0,0,1,0,David Gregory,"Documentary,Adventure",United States,English,97
+4741,Lost Soul: The Doomed Journey of Richard Stanley's ?Â€?Island of Dr. Moreau?Â€?,2014,,7.5,100%,0,0,1,0,David Gregory,"Documentary,Adventure",United States,English,97
 4742,A Private War,2018,18+,6.7,87%,0,0,1,0,Matthew Heineman,"Biography,Drama,War","United Kingdom,United States",English,110
 4743,"Nightmares in Red, White and Blue",2009,,7.2,100%,0,0,1,0,Andrew Monument,"Documentary,Horror",United States,English,96
 4744,Transit,2018,,6.9,94%,0,0,1,0,Christian Petzold,"Drama,Sci-Fi","Germany,France","German,French,French Sign Language",101
@@ -5928,7 +5928,7 @@ ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Director
 5927,Rosenstrasse,2003,13+,6.7,55%,0,0,1,0,Margarethe von Trotta,"Drama,War","Germany,Netherlands","German,English",136
 5928,A Turtle's Tale: Sammy's Adventures,2010,all,6.1,44%,0,0,1,0,"Ben Stassen,Mimi Maynard","Animation,Adventure,Family","France,Belgium,United States","Danish,Italian,English",88
 5929,Peterloo,2018,13+,6.5,66%,0,0,1,0,Mike Leigh,"Drama,History",United Kingdom,English,154
-5930,Vision ?€? From the Life of Hildegard von Bingen,2009,,6.5,82%,0,0,1,0,Margarethe von Trotta,"Biography,Drama,History","Germany,France","German,Latin",110
+5930,Vision ?Â€? From the Life of Hildegard von Bingen,2009,,6.5,82%,0,0,1,0,Margarethe von Trotta,"Biography,Drama,History","Germany,France","German,Latin",110
 5931,Song to Song,2017,18+,5.7,43%,0,0,1,0,Terrence Malick,"Drama,Music,Romance",United States,English,129
 5932,Nayakan,1987,,8.7,,0,0,1,0,Mani Ratnam,"Crime,Drama",India,Tamil,145
 5933,Padosan,1968,all,8.1,,0,0,1,0,Jyoti Swaroop,"Comedy,Musical,Romance",India,Hindi,157
@@ -6080,7 +6080,7 @@ ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Director
 6079,Munyurangabo,2007,,6.7,92%,0,0,1,0,Lee Isaac Chung,Drama,"Rwanda,United States",Kinyarwanda,97
 6080,Ankhon Dekhi,2014,,8,,0,0,1,0,Rajat Kapoor,"Comedy,Drama",India,Hindi,107
 6081,The Only Living Boy in New York,2017,18+,6.3,34%,0,0,1,0,Marc Webb,Drama,United States,English,89
-6082,Michael H. ?€? Profession: Director,2013,13+,7,91%,0,0,1,0,Yves Montmayeur,"Documentary,Biography","Austria,France","German,French",92
+6082,Michael H. ?Â€? Profession: Director,2013,13+,7,91%,0,0,1,0,Yves Montmayeur,"Documentary,Biography","Austria,France","German,French",92
 6083,Bustin' Down the Door,2008,,7,79%,0,0,1,0,Jeremy Gosch,"Documentary,Sport",United States,English,96
 6084,Switchback,1997,18+,6.4,32%,0,0,1,0,Jeb Stuart,"Crime,Mystery,Thriller",United States,English,118
 6085,Hatchet III,2013,18+,5.7,57%,0,0,1,0,BJ McDonnell,"Action,Comedy,Horror,Thriller",United States,English,81
@@ -7878,7 +7878,7 @@ ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Director
 7877,Harry Price: Ghost Hunter,2015,,6.7,,0,0,1,0,Alex Pillai,Drama,United Kingdom,English,90
 7878,Klunkerz,2006,all,7.9,,0,0,1,0,William Savage,"Documentary,Sport",United States,English,83
 7879,Marjaavaan,2019,,3.5,,0,0,1,0,Milap Zaveri,"Action,Drama,Romance",India,Hindi,152
-7880,My Neighbor?€?s Wife,2011,13+,6.5,,0,0,1,0,Jun Lana,Drama,Philippines,"Filipino,Tagalog",125
+7880,My Neighbor?Â€?s Wife,2011,13+,6.5,,0,0,1,0,Jun Lana,Drama,Philippines,"Filipino,Tagalog",125
 7881,Lady Chatterley's Lover,1981,18+,5.2,,0,0,1,0,Jed Mercurio,"Drama,Romance",United Kingdom,English,89
 7882,Kati Patang,1971,,7.1,,0,0,1,0,Shakti Samanta,"Drama,Family,Musical,Romance",India,Hindi,167
 7883,Little Soldiers,1996,,7.9,,0,0,1,0,David Fisher,"Action,Drama","United States,Mexico","English,Spanish",91
@@ -8300,7 +8300,7 @@ ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Director
 8299,The Exodus Decoded,2006,,6.8,,0,0,1,0,Simcha Jacobovici,Documentary,"Canada,Egypt,Greece,Israel",English,93
 8300,The Babymakers,2012,18+,4.9,8%,0,0,1,0,Jay Chandrasekhar,Comedy,United States,English,95
 8301,The Big Ask,2014,18+,4.8,55%,0,0,1,0,"Thomas Beatty,Rebecca Fishman","Comedy,Drama",United States,English,91
-8302,ZZ Top ?€? Live from Texas,2008,,8,,0,0,1,0,Milton Lage,Music,United States,English,122
+8302,ZZ Top ?Â€? Live from Texas,2008,,8,,0,0,1,0,Milton Lage,Music,United States,English,122
 8303,American Dreamer,2019,18+,6,,0,0,1,0,Derrick Borte,"Crime,Thriller",United States,English,92
 8304,Speed & Angels,2008,13+,7.3,,0,0,1,0,Peyton Wilson,"Documentary,Drama",United States,English,95
 8305,The Second Awakening of Christa Klages,1978,,6.8,,0,0,1,0,Margarethe von Trotta,Drama,West Germany,German,92
@@ -8831,7 +8831,7 @@ ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Director
 8830,Rosemont,2015,16+,6.4,,0,0,1,0,Daniel Petrie Jr.,Drama,United States,English,95
 8831,Spectrum: A Story of the Mind,2016,,8.2,,0,0,1,0,,"Documentary,Animation,Short",United States,English,24
 8832,Soldiers Of Conscience,2007,13+,7.2,,0,0,1,0,"Catherine Ryan,Gary Weimberg","Documentary,War",United States,English,86
-8833,A ?€?Private Dancer?€? in Mom?€?s Kitchen,2020,,7.6,,0,0,1,0,Bill Briles,Comedy,United States,English,92
+8833,A ?Â€?Private Dancer?Â€? in Mom?Â€?s Kitchen,2020,,7.6,,0,0,1,0,Bill Briles,Comedy,United States,English,92
 8834,The Conclave,2006,,6.5,,0,0,1,0,Christoph Schrewe,"Biography,Drama,History","Canada,Germany",English,100
 8835,Three Guys Named Mike,1951,,6.2,,0,0,1,0,Charles Walters,"Comedy,Romance",United States,English,90
 8836,The Magic Of Mushrooms,2014,,7.5,,0,0,1,0,Russell Leven,Documentary,United Kingdom,English,50
@@ -8902,7 +8902,7 @@ ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Director
 8901,Shaka Zulu: The Last Great Warrior,2005,18+,5.3,,0,0,1,0,,,,,
 8902,Running Wild: The Life of Dayton O. Hyde,2013,,7.5,,0,0,1,0,Suzanne Mitchell,"Documentary,Biography,History,Western",United States,English,93
 8903,The Prince & Me 4: The Elephant Adventure,2010,7+,4.6,,0,0,1,0,Catherine Cyran,"Comedy,Romance",United States,"English,Hungarian",93
-8904,Mama?€?s Girl,2018,7+,8,,0,0,1,0,Connie Macatuno,Drama,Philippines,"Filipino,Tagalog",105
+8904,Mama?Â€?s Girl,2018,7+,8,,0,0,1,0,Connie Macatuno,Drama,Philippines,"Filipino,Tagalog",105
 8905,Triage: Dr. James Orbinski's Humanitarian Dilemma,2008,,7.8,,0,0,1,0,Patrick Reed,Documentary,Canada,English,90
 8906,Silas Marner,1985,,7.3,,0,0,1,0,Giles Foster,Drama,United Kingdom,English,92
 8907,In einem wilden Land,2013,,5.3,,0,0,1,0,Rainer Matsutani,"Adventure,Western",Germany,German,120
@@ -9251,7 +9251,7 @@ ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Director
 9250,Guns Girls and Gangsters,1959,,6.3,,0,0,1,0,Edward L. Cahn,"Crime,Drama,Thriller",United States,English,70
 9251,"Thank You, Mr. President: Helen Thomas at the White House",2008,,6.7,,0,0,1,0,Rory Kennedy,"Documentary,Biography",United States,English,47
 9252,Blood Feast,2016,18+,4.6,,0,0,1,0,Herschell Gordon Lewis,Horror,United States,English,67
-9253,"DOS ?????? ?????????????? ???????€????, ???€' ?????? ???????€??????",2011,,5.6,,0,0,1,0,Vijay Krishna Acharya,"Action,Adventure",India,"Hindi,English",164
+9253,"DOS ?????? ?????????????? ???????Â€????, ???Â€' ?????? ???????Â€??????",2011,,5.6,,0,0,1,0,Vijay Krishna Acharya,"Action,Adventure",India,"Hindi,English",164
 9254,Painted Horses,2017,,6.6,,0,0,1,0,Damian X. Fulton,Drama,United States,,91
 9255,The Enemy Within,1994,,5.8,,0,0,1,0,,Drama,United States,English,43
 9256,Beyond Boundaries: The Harvey Weinstein Scandal,2018,16+,4.1,,0,0,1,0,Jordan Hill,Documentary,United Kingdom,English,94
@@ -12154,7 +12154,7 @@ ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Director
 12153,Fossil,2014,,4.6,,0,0,1,0,Alex Walker,Thriller,United Kingdom,English,93
 12154,There's No Place Like Utopia,2014,13+,5.7,,0,0,1,0,Joel Gilbert,Documentary,United States,English,110
 12155,We Think the World of You,1988,7+,5.9,,0,0,1,0,Colin Gregg,Comedy,United Kingdom,English,90
-12156,Locked Up: A Mother?€?s Rage,1994,,6.8,,0,0,1,0,Bethany Rooney,Drama,United States,English,93
+12156,Locked Up: A Mother?Â€?s Rage,1994,,6.8,,0,0,1,0,Bethany Rooney,Drama,United States,English,93
 12157,Remembering Phil,2008,,6.8,,0,0,1,0,Brian J. Smith,Comedy,United States,English,85
 12158,The Secret Kingdom,1998,7+,4.9,,0,0,1,0,David Schmoeller,"Adventure,Sci-Fi","United States,Romania",English,90
 12159,Altered by Elvis,2006,,7.6,,0,0,1,0,"Jayce Bartok,Tiffany Bartok",Documentary,United States,English,54
@@ -12830,7 +12830,7 @@ ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Director
 12829,ReVamped,2007,18+,2.9,,0,0,1,0,Jeff Rector,Horror,United States,English,87
 12830,Captain Beefheart: Under Review,2006,,,,0,0,1,0,,,,,
 12831,Rich in Spirit,2007,,4.1,,0,0,1,0,Cora Anne,Comedy,United States,English,90
-12832,Mrs. Pollifax ?€? Spy,1971,all,5.5,,0,0,1,0,Leslie H. Martinson,"Adventure,Comedy",United States,English,110
+12832,Mrs. Pollifax ?Â€? Spy,1971,all,5.5,,0,0,1,0,Leslie H. Martinson,"Adventure,Comedy",United States,English,110
 12833,Stolen Innocence,1995,,5.6,,0,0,1,0,Skye Borgman,"Documentary,Crime,Drama,Thriller",United States,English,91
 12834,Northern Frontier,1935,,5.6,,0,0,1,0,Sam Newfield,"Action,Crime,Drama,Western",United States,English,57
 12835,Battle Queen 2020,2001,18+,3.2,,0,0,1,0,Daniel D'Or,"Action,Sci-Fi","Canada,United States",English,95
@@ -13887,7 +13887,7 @@ ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Director
 13886,Breakfast in Hollywood,1946,,5.8,,0,0,1,0,Harold D. Schuster,"Comedy,Music",United States,English,90
 13887,What Matters Most,2001,,6.2,,0,0,1,0,Jane Cusumano,Drama,United States,English,105
 13888,Tie the Knot,2016,,3.3,,0,0,1,0,Shuja Paul,"Comedy,Drama,Family,Musical,Romance","United States,India",English,90
-13889,The Kennedys?€? Irish Mafia,2016,,4.3,,0,0,1,0,David Harvey,Documentary,Ireland,English,85
+13889,The Kennedys?Â€? Irish Mafia,2016,,4.3,,0,0,1,0,David Harvey,Documentary,Ireland,English,85
 13890,Black Angels,2009,,6.7,,0,0,1,0,Arthur Muhammad,"Action,Drama",United States,English,87
 13891,Palakkattu Madhavan,2015,,4.9,,0,0,1,0,,"Comedy,Drama",India,,
 13892,Distant Justice,1992,18+,4.9,,0,0,1,0,T??ru Murakawa,"Action,Drama","United States,Japan",English,94
@@ -15004,7 +15004,7 @@ ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Director
 15003,The Getaway,2020,18+,,,0,0,1,0,Sam Peckinpah,"Action,Crime,Thriller",United States,"English,Spanish",123
 15004,Assumed Killer,2013,,3.5,,0,0,1,0,Bernard Salzmann,"Drama,Mystery,Thriller",United States,English,87
 15005,Stalker,2010,18+,4.4,,0,0,1,0,Andrei Tarkovsky,"Drama,Sci-Fi",Soviet Union,Russian,162
-15006,The Gate: Dawn of the Bah???€??? Faith,2018,,2.9,,0,0,1,0,Bob Hercules,Documentary,United States,,60
+15006,The Gate: Dawn of the Bah???Â€??? Faith,2018,,2.9,,0,0,1,0,Bob Hercules,Documentary,United States,,60
 15007,Beautiful Destroyer,1986,,7.5,,0,0,1,0,"Christopher Dorrah,Tracy Wren","Action,Drama,Romance,Thriller",United States,English,115
 15008,UnDivided,2013,7+,7.5,,0,0,1,0,Sam Martin,Documentary,United States,English,66
 15009,Uphill Battle,2014,16+,5.3,,0,0,1,0,Amy Kenney,Family,United States,English,92
